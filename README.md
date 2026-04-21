@@ -1,28 +1,32 @@
-# Project Title
+# HW 4.4
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repo is my solution for HW 4.4 about turning HW 4.3 into a repo submission.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This repo contains the solution Jonathan Hartman submitted for HW 4.3, including the QMD file and the pdf
+rendered from the QMD. It covers Busiest Airports data, Monte Carlo Simulation  for Numerical Integration data,
+and Planning/Prompting GenAI data. 
 
-### Interesting Insight (Optional)
+### Interesting Insight
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+One insight gathered from this assignment was the utilization of a style guide and how that changes my thinking process whilst coding.
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+There are two major sources of data used for this assignment.
+
+Wikipedia's List of Busiest Airports that we scraped for academic purposes and the calcium data provided by Professor Neil Hatfield.
+Additionally, we simulated some data for the Monte Carlo Numerical Integration section.
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+The full plan is enclosed within the Plan for HW4.4.docx file.
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+This repo is relatively simple in organization. Most files reside at the top level. There is a sub-directory, images, where static image files are.
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+The author is Jonathan Hartman. Email him at jqh6518@psu.edu for any inquiries.
